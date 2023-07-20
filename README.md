@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @silkwat
-- 👀 I’m interested in ceative thinking | tinker-ing 
+- 👀 I’m interested in creative thinking | tinker-ing 
 - 🌱 I’m currently learning bot development
 - 💞️ ...
 - 📫 How to reach me silkwat@firemail.de
