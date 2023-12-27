@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @silkwat
 - 👀 I’m interested in creative thinking | tinker-ing 
-- 🌱 I’m currently learning bot development
-- 💞️ ...
+- 🌱 I’m currently learning ceph clustering
 - 📫 How to reach me silkwat@firemail.de
 
 <!---
